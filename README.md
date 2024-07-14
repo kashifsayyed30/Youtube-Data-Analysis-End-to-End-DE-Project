@@ -63,3 +63,7 @@ The goal is to gain valuable insights into YouTube's trending content, understan
 
 This architecture supports scalable, secure, and efficient data processing and analytics on the AWS cloud.
 
+
+
+Project Credit: @Darshil Parmar
+
